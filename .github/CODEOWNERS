@@ -1,0 +1,4 @@
+* @team_1
+*.js @front-end-team
+*.rb @ruby-expert
+/tests/ @qa-team
